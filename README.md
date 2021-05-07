@@ -1,2 +1,2 @@
-# synchronousBallMovement
-Ball moving synchronously
+# player
+updating playerCount and gamestate
